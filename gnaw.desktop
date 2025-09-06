@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Gnaw
+Comment=One-click MASQUE-in-MASQUE
+Exec=gnaw-gui
+Icon=gnaw
+Terminal=false
+Categories=Network;Security;
+StartupNotify=true
