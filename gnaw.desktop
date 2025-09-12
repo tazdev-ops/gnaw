@@ -1,9 +1,10 @@
 [Desktop Entry]
 Type=Application
 Name=Gnaw
-Comment=One-click MASQUE-in-MASQUE
-Exec=gnaw-gui
-Icon=gnaw
+Comment=MASQUE wrapper + MiM + admin helper + GTK GUI
+Exec=gnaw --gui
+Icon=applications-internet
 Terminal=false
-Categories=Network;Security;
+Categories=Network;GTK;
+Keywords=masque;proxy;socks;vpn;tun;
 StartupNotify=true
